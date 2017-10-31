@@ -1,0 +1,90 @@
+body{
+	background-color:black;
+	font-family:arial;
+}
+p,h2,h1{
+	color:red;
+}
+#maincontainer{
+	height:100%
+	width:100%;
+}
+
+#header{
+	height:600px;
+	width:100%;
+}
+#header-image{
+	height:100%;
+	width:100%;
+}
+.paragraph{
+	text-align:center;
+	color:red;
+	font-size:30px;
+}
+#second_row{
+	height:500px;
+	width:100%;
+	border:black solid 3px;
+}
+#video{
+	height:450px;
+	width:500px;
+	border:red solid 2px;
+	border-radius:15px 0px 0px 15px;
+	float:left;
+	text-align:center;
+	padding:22px;
+}
+#vid{
+	height:350px;
+	width:500px;
+}
+#nice_things{
+	height:450px;
+	width:500px;
+	border:red solid 2px;
+	float:left;
+	text-align:center;
+	padding:22px;
+}
+#memeoftheday{
+	height:450px;
+	width:500px;
+	border:red solid 2px;
+	border-radius:0px 15px 15px 0px;
+	float:left;
+	text-align:center;
+	padding:22px;
+}
+#contact1, #roblox{
+	text-align:center;
+}
+.contactdiv{
+	display:inline;
+	padding:20px;
+}
+#discord{
+	width:20px;
+	height:20px;
+}
+#skype{
+	width:20px;
+	height:20px;
+}
+#v3rm{
+	width:20px;
+	height:20px;
+}
+#github{
+	width:20px;
+	height:20px;
+}
+#youtube{
+	width:20px;
+	height:20px;
+}
+#rrrroblox{
+	font-size:20px;
+}
